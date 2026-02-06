@@ -11,6 +11,8 @@ patch:
   schema_list:
     - schema: wubi86_jidian_pinyin      # 五笔拼音混输
 
+
+
   # Menu
   menu:
     page_size: 3                    # 候选词数量，最多支持 10 个
